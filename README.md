@@ -1,3 +1,11 @@
+# 🌐 Web Deployment
+
+You can access the live version of the Agriculture Analytics Platform here:
+
+👉 **[busami-agric.onrender.com](https://busami-agric.onrender.com)**
+
+---
+
 # 📄 README.md
 
 ## Agriculture Analytics Platform
@@ -96,13 +104,19 @@ This project aligns with:
 
 ## 🤝 Contributing
 
-We welcome contributions! Suggestions, bug reports, and pull requests are appreciated.
+We welcome contributions! Suggestions, bug reports, and pull requests are appreciated. For questions or collaboration, contact any of the contributors.
 
 ---
 
 ## 📬 Contact Contributors
 
-For support or questions, please contact \[Your Name] at \[[your.email@example.com](mailto:your.email@example.com)].
+For support or questions, please contact any of the following contributors:
+
+* Kennedy Ouma Otieno - [001otienokennedy@gmaim](mailto:001otienokennedy@gmaim)
+* Consolata Mugo - [mugoconsolata70@gmail.com](mailto:mugoconsolata70@gmail.com)
+* Victor Busami - [victorbusami1@gmail.com](mailto:victorbusami1@gmail.com)
+* Finna Onyango - [finnaonyango@gmail.com](mailto:finnaonyango@gmail.com)
+* Monica Kamene - [kamenemonica22@gmail.com](mailto:kamenemonica22@gmail.com)
 
 ---
 
@@ -110,10 +124,7 @@ For support or questions, please contact \[Your Name] at \[[your.email@example.c
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-
-
-
-
+---
 
 # Team Collaboration Guide - Please Read Before Contributing!
 
@@ -348,6 +359,3 @@ git push origin feature/new-thing
 ## Final Thoughts
 
 Thanks for reading this! Let’s keep things clean, simple, and helpful. Follow the workflow, support each other, and let's build something awesome 🚀
-
----
-
